@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702204126873",
+    "project_id": "gramakalyana-3bc12",
+    "storage_bucket": "gramakalyana-3bc12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702204126873:android:24a960b61ab7cc8dbeba08",
+        "android_client_info": {
+          "package_name": "com.example.gramakalyana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmoEzSvUSplewB0QSb5u6pdlwCZD6JKNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
